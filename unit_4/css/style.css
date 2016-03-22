@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
+
+body{
+  background: url("../images/shutterstock_254322661.jpg");
+  background-size: cover;
+  color: white;
+}
+p{
+  font-size: 22px;
+  color: white;
+}
