@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
+
+body {
+  background: url("../images/shutterstock_254322661.jpg");
+  background-size: cover;
+  color: white;
+  font-family: '400italic', cursive;
+}
+p{
+  font-size: 22px;
+  color: white; 
+  font-family: '400italic', cursive;
+}
